@@ -32,7 +32,7 @@ public class BasicTest {
 
     driver.get(DROPDOWN_URL);
     Select select = new Select(driver.findElement(By.id("dropdown")));
-    select.selectByVisibleText("Option 2");
+    select.selectByVisibleText("Option 1");
 
   }
 

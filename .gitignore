@@ -4,5 +4,10 @@
 # Ignore Gradle build output directory
 build
 
-.idea
+bin
 
+TestNG_Reports
+
+GradleReports
+
+.idea
